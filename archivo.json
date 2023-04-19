@@ -1,0 +1,11 @@
+{
+    "Titulo": "El principito",
+    "autor": "Antoine de sait",
+    "Edicion": 1934,
+    "Editorial":"Salamndra",
+    "idioma original":"France",
+    "Resuemen":"El Principito es una novela corta sobre un joven príncipe de otro planeta que viaja por el universo y aprende sobre la amistad,el amor y la importancia de cuidar de las cosas pequeñas.",
+    "colores":["rojo","morado","verde"],
+    "Nombre":{"aluemnos1":"Yoltic","aluemnos2":"Jesus","aluemnos3":"Daniel","aluemnos4":"Lupita"}
+
+}
